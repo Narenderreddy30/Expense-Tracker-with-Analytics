@@ -41,6 +41,9 @@ java -cp "bin;lib/*" Main
 - **JFreeChart** - Library used for rendering analytics and comparison charts.
 
 ## 📸 Screenshots
-<img width="1264" height="894" alt="Screenshot 2026-09-23 105724" src="https://github.com/user-attachments/assets/2b406e8e-ad91-4127-86e4-e622ef68bcb0" />
-<img width="1261" height="920" alt="Screenshot 2026-09-23 105740" src="https://github.com/user-attachments/assets/eb9c17bd-67e7-47b0-bd11-e18df678c8a2" />
+<img width="1100" height="800" alt="Screenshot 2026-09-23 105724" src="https://github.com/user-attachments/assets/2b406e8e-ad91-4127-86e4-e622ef68bcb0" />
+<img width="1200" height="800" alt="Screenshot 2026-09-23 105740" src="https://github.com/user-attachments/assets/eb9c17bd-67e7-47b0-bd11-e18df678c8a2" />
+
+<img width="1187" height="800" alt="Screenshot 2026-09-23 105659" src="https://github.com/user-attachments/assets/5d4f1c98-f87e-4af2-987a-67f0d51448b0" />
+
 
