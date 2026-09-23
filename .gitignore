@@ -1,0 +1,12 @@
+# Compiled class files
+bin/
+*.class
+
+# Log files
+*.log
+
+# Data files (optional: comment this out if you want to push your expenses)
+# expenses.txt
+
+# VS Code settings
+.vscode/

@@ -1,0 +1,5 @@
+2024-01-03;Transport;3.75;Bus fare
+2024-01-04;Shopping;45.0;Groceries
+2024-01-05;Entertainment;20.0;Movie
+2026-03-05;food;1500.0;expense dine
+2026-03-05;shopping;1565.0;expense dine
