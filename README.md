@@ -41,4 +41,6 @@ java -cp "bin;lib/*" Main
 - **JFreeChart** - Library used for rendering analytics and comparison charts.
 
 ## 📸 Screenshots
-*(Drag and drop screenshots of your Light Mode, Dark Mode, and Charts here!)*
+<img width="1264" height="894" alt="Screenshot 2026-09-23 105724" src="https://github.com/user-attachments/assets/2b406e8e-ad91-4127-86e4-e622ef68bcb0" />
+<img width="1261" height="920" alt="Screenshot 2026-09-23 105740" src="https://github.com/user-attachments/assets/eb9c17bd-67e7-47b0-bd11-e18df678c8a2" />
+
